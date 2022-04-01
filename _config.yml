@@ -30,6 +30,8 @@ plugins:
 #  - title: twitter
 #    url: https://twitter.com
 
+title_image: "hicss-56.png"
+
 # Build settings
 markdown: kramdown
 permalink: pretty
