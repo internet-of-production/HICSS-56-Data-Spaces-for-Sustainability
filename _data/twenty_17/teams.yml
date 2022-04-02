@@ -5,7 +5,8 @@
   thumbnail: jarke.jpg
   alt: Picture of Matthias Jarke
   topic: Topic
-  description: More Info
+  email: jarke(at)dbis.rwth-aachen.de
+  description: Matthias Jarke is Professor Emeritus of Information Systems and Databases at RWTH Aachen University and Director of the Fraunhofer FIT Institute for Applied Information Technology. Previously, he served on the faculties of NYU Stern School of Business and the University of Passau, as President of the GI German Informatics Society, and on the Presidential Board of Fraunhofer, the largest applied research organization in Europe. He co- initiated the Industrial Data Space initiative in 2014 and currently serves as co-speaker of the National Research Cluster “Internet of Production” in Aachen.
   href: https://dbis.rwth-aachen.de/dbis/index.php/user/jarke/
 
 - title: Hoda ElMaraghy
@@ -15,7 +16,8 @@
   thumbnail: elmaraghy.jpg
   alt: Picture of Hoda ElMaraghy
   topic: Topic
-  description: More Info
+  description: Hoda ElMaraghy is a Distinguished University Professor of Industrial and Manufacturing Systems Engineering and director of the Intelligent Manufacturing Systems Center at the University of Windsor, Ontario/Canada. In 1994, she was the first woman to serve as Dean of Engineering at a Canadian university. Her research on flexible manufacturing systems has helped manufacturers around the world adapt and respond to market changes. Her current research interests include digital manufacturing transformation and future manufacturing systems paradigms. She is a member of the Order of Canada and Order of Ontario.
+  email: hae(at)uwindsor.ca
   href: https://www.uwindsor.ca/engineering/mame/416/dr-hoda-elmaraghy
 
 - title: István Koren
@@ -25,7 +27,8 @@
   thumbnail: koren.jpg
   alt: Picture of István Koren
   topic: Topic
-  description: More Info
+  description: István Koren is a postdoc researcher at the Chair of Process and Data Science (Prof. Wil van der Aalst) and Deputy Coordinator of the Infrastructure research within the National Research Cluster “Internet of Production” at RWTH Aachen University. In his research, he studies a DevOpsUse approach to the co-evolution of engineering, production, and usage in complex software- and data-intensive systems.
+  email: koren(at)pads.rwth-aachen.de
   href: https://istvank.eu
 
 - title: Frank Piller
@@ -35,5 +38,6 @@
   thumbnail: piller.jpg
   alt: Picture of Frank Piller
   topic: Topic
-  description: More Info
+  description: Frank Piller is a professor of management and Head of the Institute for Technology and Innovation Management at RWTH Aachen University. Before, he had positions at MIT and TU Munich. As a principle investigator in the National Research Cluster "Internet of Production", he currently studies decision making and business model transformation in the age of AI/ML, Industry 4.0, and industrial data ecosystems. He serves as a scientific advisor to Germany's national Industrie 4.0 policy.
+  email: piller(at)time.rwth-aachen.de
   href: http://frankpiller.com/
