@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Spaces for Sustainability and Resilience in Manufacturing</title>
+    <description>Submit to the HICSS-56 Minitrack on Data Spaces for Sustainability and Resilience in Manufacturing!
+</description>
+    <link>https://internet-of-production.github.io/HICSS-56-Data-Spaces-for-Sustainability/</link>
+    <atom:link href="https://internet-of-production.github.io/HICSS-56-Data-Spaces-for-Sustainability/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Apr 2022 09:25:12 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 09:25:12 +0000</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
+    
+  </channel>
+</rss>
